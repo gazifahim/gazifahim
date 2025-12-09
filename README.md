@@ -21,14 +21,9 @@
 
 ### 🌐 Connect With Me  
 <p>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
-  </a>
-  <a href="https://linkedin.com/" target="_blank">
+
+  <a href="www.linkedin.com/in/gazi-fahim" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 </p>
 
@@ -42,14 +37,6 @@
   <img src="https://skillicons.dev/icons?i=react" width="45"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gazifahim&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazifahim&theme=tokyonight" height="165"/>
 </p>
 
 ---
