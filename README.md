@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **my personal projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Html,Css,Javascript**
+- 💬 Ask me about **Html,Css,Javascript,React,Nextjs**
 
 - 📫 How to reach me **gazifaahim@gmail.com**
 
